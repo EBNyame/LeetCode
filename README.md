@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/EBNyame/LeetCode/tree/master/0009-palindrome-number) |
 | [2556-convert-the-temperature](https://github.com/EBNyame/LeetCode/tree/master/2556-convert-the-temperature) |
+## Array
+|  |
+| ------- |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EBNyame/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 <!---LeetCode Topics End-->
