@@ -13,10 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/EBNyame/LeetCode/tree/master/0009-palindrome-number) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/EBNyame/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/EBNyame/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EBNyame/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Hash Table
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Counting
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
