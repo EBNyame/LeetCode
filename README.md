@@ -17,5 +17,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/EBNyame/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EBNyame/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 <!---LeetCode Topics End-->
