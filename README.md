@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/EBNyame/LeetCode/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/EBNyame/LeetCode/tree/master/1013-fibonacci-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/EBNyame/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EBNyame/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EBNyame/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EBNyame/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
