@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/EBNyame/LeetCode/tree/master/0661-image-smoother) |
 | [0978-valid-mountain-array](https://github.com/EBNyame/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/EBNyame/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EBNyame/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/EBNyame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/EBNyame/LeetCode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
