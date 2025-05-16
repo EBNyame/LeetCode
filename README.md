@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0978-valid-mountain-array](https://github.com/EBNyame/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/EBNyame/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EBNyame/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
