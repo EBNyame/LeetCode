@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/EBNyame/LeetCode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/EBNyame/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/EBNyame/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/EBNyame/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Array
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/EBNyame/LeetCode/tree/master/0661-image-smoother) |
 | [0978-valid-mountain-array](https://github.com/EBNyame/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/EBNyame/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/EBNyame/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/EBNyame/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/EBNyame/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/EBNyame/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/EBNyame/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/EBNyame/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/EBNyame/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -58,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/EBNyame/LeetCode/tree/master/0661-image-smoother) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
