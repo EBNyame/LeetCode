@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/EBNyame/LeetCode/tree/master/0661-image-smoother) |
+| [0898-transpose-matrix](https://github.com/EBNyame/LeetCode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/EBNyame/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/EBNyame/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/EBNyame/LeetCode/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/EBNyame/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/EBNyame/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/EBNyame/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/EBNyame/LeetCode/tree/master/0661-image-smoother) |
+| [0898-transpose-matrix](https://github.com/EBNyame/LeetCode/tree/master/0898-transpose-matrix) |
 ## Queue
 |  |
 | ------- |
